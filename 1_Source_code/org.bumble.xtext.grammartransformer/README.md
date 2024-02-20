@@ -8,3 +8,8 @@
 * org.bumble.xtext.grammartransformer.target
 ## The following eclipse project is reponsible for testing the GrammarTransformer:
 * org.bumble.xtext.grammartransformer.test
+## The following eclipse project is the tool: ConfigGenerator
+* org.xtext.configgenerator
+## The following eclipse project is the tool: GrammarGenerator
+org.xtext.grammargenerator
+org.xtext.grammargenerator.zip (Jar file of the tool)
